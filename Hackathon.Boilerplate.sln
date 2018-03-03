@@ -33,6 +33,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SitecoreExtension", "Siteco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubix.Foundation.SitecoreExtension", "Rubix.Foundation.SitecoreExtension\Rubix.Foundation.SitecoreExtension.csproj", "{DDFFF81E-19E1-40E8-99BC-8CE871DC9F64}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{C1038B46-653F-4442-AF00-2C4FFA1B01FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubix.Website", "Rubix.Website\Rubix.Website.csproj", "{55E2BD62-2BE8-4C69-BBBA-519C211B9C17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{DDFFF81E-19E1-40E8-99BC-8CE871DC9F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDFFF81E-19E1-40E8-99BC-8CE871DC9F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDFFF81E-19E1-40E8-99BC-8CE871DC9F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E2BD62-2BE8-4C69-BBBA-519C211B9C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E2BD62-2BE8-4C69-BBBA-519C211B9C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E2BD62-2BE8-4C69-BBBA-519C211B9C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E2BD62-2BE8-4C69-BBBA-519C211B9C17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +59,8 @@ Global
 		{D27C83D2-2EAF-4E44-A1ED-2B3C2EBB5854} = {DAFED8F5-6CBD-4384-AAD6-DC3BCCF24911}
 		{9DD957E4-0C92-4FE0-A7C0-E503535D69A0} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
 		{DDFFF81E-19E1-40E8-99BC-8CE871DC9F64} = {9DD957E4-0C92-4FE0-A7C0-E503535D69A0}
+		{C1038B46-653F-4442-AF00-2C4FFA1B01FE} = {15D97D61-D597-42EC-B7E9-E9EC8130E630}
+		{55E2BD62-2BE8-4C69-BBBA-519C211B9C17} = {C1038B46-653F-4442-AF00-2C4FFA1B01FE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {311DA37D-528B-43B2-A99B-E7253F841D46}
