@@ -1,0 +1,20 @@
+﻿@using Sitecore.XConnect;
+
+@if (Model != null)
+{
+    <table>
+        <tr>
+            <th>Company</th>
+            <th>Contact</th>
+            <th>Country</th>
+        </tr>
+        @foreach (var item in Model.Identifiers)
+        {
+            <tr>
+                <td>@item.Duration</td>
+                <td>@item.ChannelId</td>
+                <td>@item.EngagementValue</td>
+            </tr>
+        }
+    </table>
+}
