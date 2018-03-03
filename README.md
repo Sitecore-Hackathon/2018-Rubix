@@ -4,7 +4,7 @@
 
 Welcome to Sitecore Hackathon 2018.
 
-The Hackathon site can be found at http://www.sitecorehackathon.org/sitecore-hackathon-2018/
+The Hackathon site can be found at https://www.youtube.com/watch?v=oeWG6tzBL7A&feature=youtu.be
 
 This purpose of repository is to provide a sample which shows how to structure the Hackathon submissions. We highly recommend
 
